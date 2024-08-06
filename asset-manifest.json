@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tasty-food/static/css/main.217e962b.css",
+    "main.js": "/tasty-food/static/js/main.02649630.js",
+    "static/media/15.jpg": "/tasty-food/static/media/15.ab5f35cd213e2b6eca3e.jpg",
+    "static/media/18.jpg": "/tasty-food/static/media/18.1bc24fbf412d8448fc5c.jpg",
+    "index.html": "/tasty-food/index.html",
+    "main.217e962b.css.map": "/tasty-food/static/css/main.217e962b.css.map",
+    "main.02649630.js.map": "/tasty-food/static/js/main.02649630.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.217e962b.css",
+    "static/js/main.02649630.js"
+  ]
+}
